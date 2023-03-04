@@ -1,10 +1,13 @@
 # Hi, I'm Soof <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <p>Welcome to my official Github profile!</p> 
 
-# About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> <table> <tr> <td valign="center"> 🎓 I am a web 3.0 developer specialized in developing customized smart contracts and dApps. <br/> 🎯 My Goal is to build as many projects as possible and contribute in the developing of web 3.0 space. </tr> </table> 
+# About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  
+<h3>🎓 I am a web 3.0 developer specialized in developing customized smart contracts and dApps.</h3> 
+<h3> 🎯 My Goal is to build as many projects as possible and contribute in the developing of web 3.0 space.</h3>
 
 # Contribution graph [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SooF97)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-# Connect with me <a href="https://www.instagram.com/s00f.01/"><img alt="instagram" src="https://user-images.githubusercontent.com/117171884/222885642-04342d41-3417-4da8-b194-a8f29988a5b4.png" width="30px" /></a> <a href=""><img alt="facebook" src="https://user-images.githubusercontent.com/117171884/222885669-03cd07b6-cbfc-40fa-a28f-0a4d470f8ce8.png" width="30px"/></a> <a href="https://twitter.com/The_S00F"><img alt="twitter" src="https://user-images.githubusercontent.com/117171884/222885686-b21dd346-4f3c-4a74-9390-deaa56615c8b.png" width="30px"/></a> <a href="https://outlook.live.com/"><img alt="mail" src="https://user-images.githubusercontent.com/117171884/222885711-1f8f7721-cb3a-410a-b978-41fa24053994.png" width="30px"/></a> 
+# Connect with me 
+<a href="https://www.instagram.com/s00f.01/"><img alt="instagram" src="https://user-images.githubusercontent.com/117171884/222885642-04342d41-3417-4da8-b194-a8f29988a5b4.png" width="30px" /></a> <a href=""><img alt="facebook" src="https://user-images.githubusercontent.com/117171884/222885669-03cd07b6-cbfc-40fa-a28f-0a4d470f8ce8.png" width="30px"/></a> <a href="https://twitter.com/The_S00F"><img alt="twitter" src="https://user-images.githubusercontent.com/117171884/222885686-b21dd346-4f3c-4a74-9390-deaa56615c8b.png" width="30px"/></a> <a href="https://outlook.live.com/"><img alt="mail" src="https://user-images.githubusercontent.com/117171884/222885711-1f8f7721-cb3a-410a-b978-41fa24053994.png" width="30px"/></a> 
 
 # Technologies <img src="https://user-images.githubusercontent.com/117171884/222888878-ced678cd-6261-4f8f-9f0a-518db0fcfa35.png" alt="techstack" width ="29px"> 
 ## web 2.0 technologies 
