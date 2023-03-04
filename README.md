@@ -1,4 +1,5 @@
-# Hi, I'm Soof <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <p>Welcome to my official Github profile!</p> 
+# Hi, I'm Soof <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<h2>Welcome to my official Github profile!</h2> 
 
 # About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">  
 <h3>🎓 I am a web 3.0 developer specialized in developing customized smart contracts and dApps.</h3> 
