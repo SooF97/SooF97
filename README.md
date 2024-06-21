@@ -1,14 +1,12 @@
-![alt text](https://ipfs.io/ipfs/QmZmZnVqqZ8SCubFLiPWDuhCfCDFmhm9unceuM4XQRUCsm)
+![alt text](https://ipfs.io/ipfs/QmdVpyQe7R6FLmPLoLYwiNukEC3aQ4deuhMeGyiegdLMYJ)
 
 <h1 align="center">Hi, I am Soufiane MASAD and Welcome to my Github profile</h1>
-<h3 align="center">Blockchain Developer & Founder <a href="https://www.oklever.com" target="_blank">Oklever Agency</a></h3>
+<h3 align="center">Blockchain Developer & Smart Contracts Developer</h3>
 
 
 # 💫 About Me:
 👋 Hello! I'm Soufiane MASAD, <br></br>
-Blockchain and Web 3.0 Developer with over 2 years of experience <br></br>in the dynamic world of blockchain technology and decentralized web development.<br></br>
-I am also the Founder <a href="https://www.oklever.com" target="_blank">Oklever Agency</a> 
-
+Blockchain and Smart Contracts Developer with over 2 years of experience <br></br>in the dynamic world of blockchain technology and decentralized web development.<br></br> 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//souf.msd/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soufien.msd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-masad-2a8836286/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soufien_msd) 
